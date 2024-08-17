@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">শাজরা শরীফ</string>
+    <string name="button_1">মুখবন্ধ</string>
+    <string name="button_2">সিলসিলায়ে আলিয়া কাদেরিয়া পীর মাশায়েখ পরিচিতি</string>
+    <string name="button_3">আল্লামা তাহের শাহ মাদ্দাজিল্লুহুলআলী’র বংশগত শাজরা</string>
+    <string name="button_4">সিলসিলার সবক্ব (পুরষদের জন্য)</string>
+    <string name="button_5">সিলসিলার সবক্ব (মহিলাদের জন্য)</string>
+    <string name="button_6">বাইয়াত করার পর হুযূর ক্বিবলার নসিহত</string>
+    <string name="button_7">সিলসিলায়ে কাদেরীয়া আলিয়ার এগার সবক্ব</string>
+    <string name="button_8">না‘তে রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম</string>
+    <string name="button_9">না‘তে মোস্তফা সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম </string>
+    <string name="button_10">শানে গাউসে পাক (রাঃ)</string>
+    <string name="button_11">শানে হযরত খাজা চৌহরভী (রাঃ)</string>
+    <string name="button_12">শানে মুর্শিদে বরহক্ব শাহেন শাহে সিরিকোটি (রাঃ)</string>
+    <string name="button_13">শানে মুর্শিদে বরহক্ব হযরত সৈয়্যদ মুহাম্মদ তৈয়্যব শাহ (রাঃ)</string>
+    <string name="button_14">দরূদে তাজ (আরবী)</string>
+    <string name="button_15">দরূদে তাজ (বাংলা)</string>
+    <string name="button_16">খতমে গাউসিয়া শরীফের তরতীব</string>
+    <string name="button_17">শাজরা শরীফ (উর্দু)</string>
+    <string name="button_18">শাজরা শরীফ (বাংলা)</string>
+    <string name="button_19">গেয়ারভী শরীফের ফযীলত</string>
+    <string name="button_20">গেয়ারভী শরীফের তরতীব (নিয়ম)</string>
+    <string name="button_21">বারভী শরীফের তরতীব (নিয়ম)</string>
+    <string name="button_22">ক্বসীদা-এ-গাউসিয়া শরীফ (আরবী)</string>
+    <string name="button_23">ক্বসীদা-এ-গাউসিয়া শরীফ (বাংলা)</string>
+    <string name="button_24">মীলাদ শরীফ</string>
+    <string name="button_25">ত্বরীক্বত সমপর্কীয় গুরত্বপূর্ণ বাণী</string>
+    <string name="button_26">মাশায়েখ হযরাতের গুরত্বপূর্ণ বাণী</string>
+    <string name="button_27">প্রসঙ্গঃ মাজমূ‘আহ সালাওয়াতির রসূল</string>
+    <string name="button_28">স্মরণীয় যারা</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="exit_title">আপনি কি অ্যাপটি বন্ধ করতে চান?</string>
+    <string name="exit_message">অ্যাপটি আপনার ভালো লাগলে অবশ্যই ৫-স্টার রেটিং দিতে ভুলবেন না, কারণ এটি আমাকে আরও ভালো অ্যাপস বা নতুন আপডেট দিতে সহায়তা করে। অবশ্যই অ্যাপটি অন্যদের সাথে শেয়ার করবেন। ধন্যবাদ</string>
+
+
+</resources>
